@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/@open_brainiac/electron-ipc-router.svg)](https://www.npmjs.com/package/@open_brainiac/electron-ipc-router) 
 
-##Install
+## Install
 ```bash
 npm i @open_brainiac/electron-ipc-router
 ```
