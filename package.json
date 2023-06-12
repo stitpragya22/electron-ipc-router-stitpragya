@@ -1,0 +1,32 @@
+{
+  "name": "@open_brainiac/electron-ipc-router",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbrainiac/electron-ipc-router.git"
+  },
+  "keywords": [
+    "electron",
+    "ipc",
+    "event",
+    "manager"
+  ],
+  "author": "Opensource Brainiac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openbrainiac/electron-ipc-router/issues"
+  },
+  "homepage": "https://github.com/openbrainiac/electron-ipc-router#readme",
+  "dependencies": {
+    "np": "^7.2.0"
+  },
+  "peerDependencies": {
+    "electron": "^9.0.0"
+  },
+  "devDependencies": {}
+}
