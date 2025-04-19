@@ -1,16 +1,17 @@
 {
-  "name": "@open_brainiac/electron-ipc-router",
-  "version": "1.0.3",
-  "description": "",
+  "name": "electron-ipc-router-stitpragya",
+  "version": "1.0.0",
+  "description": "A fork of electron-ipc-router with updates for modern Electron versions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no test specified\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openbrainiac/electron-ipc-router.git"
+    "url": "https://github.com/stitpragya22/electron-ipc-router-stitpragya.git"
   },
   "keywords": [
+    "Stitpragya",
     "electron",
     "ipc",
     "event",
@@ -19,9 +20,9 @@
   "author": "Stitpragya Upgrade Opensource Brainiac",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/openbrainiac/electron-ipc-router/issues"
+    "url": "https://github.com/stitpragya22/electron-ipc-router-stitpragya/issues"
   },
-  "homepage": "https://github.com/openbrainiac/electron-ipc-router#readme",
+  "homepage": "https://github.com/stitpragya22/electron-ipc-router-stitpragya#readme",
   "dependencies": {
     "np": "^7.2.0"
   },
