@@ -26,7 +26,7 @@
     "np": "^7.2.0"
   },
   "peerDependencies": {
-    "electron": "^26.0.0"
+    "electron": "^35.0.0"
   },
   "devDependencies": {}
 }
